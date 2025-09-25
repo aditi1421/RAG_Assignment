@@ -1,0 +1,11 @@
+# Ignore FAISS index 
+founders_index*/
+
+# Ignore 
+.env
+
+# Ignore virtual environments
+.venv/
+env/.env
+__pycache__/
+.DS_Store
